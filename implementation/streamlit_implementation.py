@@ -16,6 +16,7 @@ engine = sqlalchemy.create_engine(f"mysql+mysqlconnector://{user}:{password}@{ho
 
 page = st.sidebar.radio("Select Page", ["Global Overview", "Health & Economic Risk", "Segmentation Insights"])
 
+# ---------------- PAGE 1: Global Overview ----------------
 # KPI Queries
 avg_income = pd.read_sql("SELECT AVG(income) AS avg_income FROM country_stats", engine).iloc[0,0]
 avg_life = pd.read_sql("SELECT AVG(life_expec) AS avg_life_expectancy FROM country_stats", engine).iloc[0,0]
@@ -87,8 +88,7 @@ fig_fertility = px.scatter(fertility_gdp_data, x="gdpp", y="total_fer", color="S
                            title="Fertility Rate vs GDP per Capita")
 st.plotly_chart(fig_fertility, use_container_width=True)
 
-
-
+# ---------------- PAGE 3: Segmentation Insights ----------------
 st.title("Segmentation Insights")
 # Segment Distribution
 seg_dist = pd.read_sql("""
