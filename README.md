@@ -43,17 +43,3 @@ Low-income countries (High Risk / Low GDP Trap):
 Income < $2,000, life expectancy < 60 years, child mortality > 80.
 
 Weak economies → poor health systems → high mortality.
-
-# Classify countries into meaningful development segments.
-Developed Nations – High income, strong health outcomes 
-
-Emerging Economies – Mid-level income, improving health outcomes
-
-Low GDP Trap – Stagnant economies, poor health outcomes 
-
-High Risk Countries – Extreme poverty, very poor health outcomes
-
-High Inflation Risk – Moderate income but unstable economies
-
-Health Critical – Countries where health outcomes lag despite moderate income
-
