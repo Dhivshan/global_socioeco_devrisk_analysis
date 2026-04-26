@@ -36,28 +36,24 @@ High-income countries (Developed Nations):
 
 Income > $30,000, life expectancy > 78 years, child mortality < 10.
 
-Example: Australia, Germany, Japan.
-
 Strong correlation: wealth → better healthcare → longer lives.
 
 Low-income countries (High Risk / Low GDP Trap):
 
 Income < $2,000, life expectancy < 60 years, child mortality > 80.
 
-Example: Niger, Chad, CAR, Burundi.
-
 Weak economies → poor health systems → high mortality.
 
 # Classify countries into meaningful development segments.
-Developed Nations – High income, strong health outcomes (e.g., USA, Germany, Japan).
+Developed Nations – High income, strong health outcomes 
 
-Emerging Economies – Mid-level income, improving health outcomes (e.g., Brazil, China, Turkey).
+Emerging Economies – Mid-level income, improving health outcomes
 
-Low GDP Trap – Stagnant economies, poor health outcomes (e.g., Bangladesh, Cambodia, Kenya).
+Low GDP Trap – Stagnant economies, poor health outcomes 
 
-High Risk Countries – Extreme poverty, very poor health outcomes (e.g., CAR, Chad, Niger, Haiti).
+High Risk Countries – Extreme poverty, very poor health outcomes
 
-High Inflation Risk – Moderate income but unstable economies (e.g., Angola, Nigeria, Venezuela).
+High Inflation Risk – Moderate income but unstable economies
 
-Health Critical – Countries where health outcomes lag despite moderate income (e.g., Laos).
+Health Critical – Countries where health outcomes lag despite moderate income
 
