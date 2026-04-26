@@ -1,0 +1,7 @@
+Python 3.14.3
+Pandas 25.3
+PyCharm 2025.3.2.1
+MySQL 8.0
+Streamlit, version 1.56.0
+pip install streamlit
+streamlit run local_path\streamlit_implementation.py
